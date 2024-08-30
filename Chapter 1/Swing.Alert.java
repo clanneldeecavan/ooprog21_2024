@@ -4,7 +4,7 @@ public class SwingAlert {
 
 public static void main(String[] args) 
 {
-            JOptionPane.showMessageDialog(this, "Hello world!");
+            JOptionPane.showMessageDialog(null, "Hello world!");
 
         }
    }
